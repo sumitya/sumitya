@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on improving the java skills.
+- 🔭 I’m currently working on improving the Java skills.
 - 🌱 I’m currently sharpening the problem solving skills.
-- 👯 I’m looking to collaborate on open source project.
+- 👯 I’m looking to collaborate on an open source project.
 - 🤔 I’m looking for help with ...
+
+[![My's GitHub stats](https://github-readme-stats.vercel.app/api?username=sumitya)](https://github.com/anuraghazra/github-readme-stats)
