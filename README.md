@@ -2,8 +2,8 @@
 
 - I’m Sumit Yadav, Sr. Software Engineer at Altran Technologies, Portugal.
 - 🤝 I write microservices to make software systems collaborative at the same time fault tolerant & reliable.
-- - 👨‍💻 Improving my System design skills.
-- - 🌱 I’m currently sharpening the problem solving skills.
+- 👨‍💻 Improving my System design skills.
+- 🌱 I’m currently sharpening the problem solving skills.
 - 🔭 I’m currently working on improving the Java skills.
 - 👯 I’m looking to collaborate on an open source project.
 - 🌟 I have also worked as a Data Engineer, where i wrote data systems capable of handling millions of records.
